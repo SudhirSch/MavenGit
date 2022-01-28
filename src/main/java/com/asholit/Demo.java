@@ -8,6 +8,7 @@ public class Demo {
 		int a=10;
 	}
 	public void decode() {
+		int a=10;
 		System.out.println("Decode Method");
 	}
 }
