@@ -10,5 +10,6 @@ public class Demo {
 	public void decode() {
 		int a=10;
 		System.out.println("Decode Method");
+		System.out.println("confict resolve sachin");
 	}
 }
