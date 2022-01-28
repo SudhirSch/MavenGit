@@ -11,5 +11,6 @@ public class Demo {
 		int b=10;
 		int a=10;
 		System.out.println("Decode Method");
+		System.out.println("conflict resolve");
 	}
 }
