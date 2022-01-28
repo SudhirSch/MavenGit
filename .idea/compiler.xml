@@ -9,5 +9,8 @@
         <module name="MavneGit" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="MavneGit" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
