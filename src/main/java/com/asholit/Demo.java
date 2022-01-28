@@ -6,6 +6,6 @@ public class Demo {
 		
 	}
 	public void decode() {
-		
+		System.out.println("Decode Method");
 	}
 }
