@@ -9,6 +9,7 @@ public class Demo {
 	}
 	public void decode() {
 		int b=10;
+		int a=10;
 		System.out.println("Decode Method");
 	}
 }
