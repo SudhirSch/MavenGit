@@ -4,7 +4,10 @@ package com.asholit;
  * Hello world!
  */
 public class App {
+
     private int b=10;
+
+    private int a=10;
     private String add="AA";
     private String name = "sudhir";
 
