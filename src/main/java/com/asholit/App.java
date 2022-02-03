@@ -6,6 +6,7 @@ package com.asholit;
  */
 public class App 
 {
+private String name="sudhir";
     public static void main( String[] args )
     {
 	private String name="sachin";
